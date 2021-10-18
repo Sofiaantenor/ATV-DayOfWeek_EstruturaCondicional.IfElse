@@ -1,0 +1,13 @@
+D:\Etec AMS1 - Programms_1S\apps-VISUAL COLD\1ano\Semestre2\SwhithCaseDayOfWeek\UsandoIfElse_DiasDaSemana\bin\Debug\netcoreapp3.1\UsandoIfElse_DiasDaSemana.exe
+D:\Etec AMS1 - Programms_1S\apps-VISUAL COLD\1ano\Semestre2\SwhithCaseDayOfWeek\UsandoIfElse_DiasDaSemana\bin\Debug\netcoreapp3.1\UsandoIfElse_DiasDaSemana.deps.json
+D:\Etec AMS1 - Programms_1S\apps-VISUAL COLD\1ano\Semestre2\SwhithCaseDayOfWeek\UsandoIfElse_DiasDaSemana\bin\Debug\netcoreapp3.1\UsandoIfElse_DiasDaSemana.runtimeconfig.json
+D:\Etec AMS1 - Programms_1S\apps-VISUAL COLD\1ano\Semestre2\SwhithCaseDayOfWeek\UsandoIfElse_DiasDaSemana\bin\Debug\netcoreapp3.1\UsandoIfElse_DiasDaSemana.runtimeconfig.dev.json
+D:\Etec AMS1 - Programms_1S\apps-VISUAL COLD\1ano\Semestre2\SwhithCaseDayOfWeek\UsandoIfElse_DiasDaSemana\bin\Debug\netcoreapp3.1\UsandoIfElse_DiasDaSemana.dll
+D:\Etec AMS1 - Programms_1S\apps-VISUAL COLD\1ano\Semestre2\SwhithCaseDayOfWeek\UsandoIfElse_DiasDaSemana\bin\Debug\netcoreapp3.1\UsandoIfElse_DiasDaSemana.pdb
+D:\Etec AMS1 - Programms_1S\apps-VISUAL COLD\1ano\Semestre2\SwhithCaseDayOfWeek\UsandoIfElse_DiasDaSemana\obj\Debug\netcoreapp3.1\UsandoIfElse_DiasDaSemana.csprojAssemblyReference.cache
+D:\Etec AMS1 - Programms_1S\apps-VISUAL COLD\1ano\Semestre2\SwhithCaseDayOfWeek\UsandoIfElse_DiasDaSemana\obj\Debug\netcoreapp3.1\UsandoIfElse_DiasDaSemana.AssemblyInfoInputs.cache
+D:\Etec AMS1 - Programms_1S\apps-VISUAL COLD\1ano\Semestre2\SwhithCaseDayOfWeek\UsandoIfElse_DiasDaSemana\obj\Debug\netcoreapp3.1\UsandoIfElse_DiasDaSemana.AssemblyInfo.cs
+D:\Etec AMS1 - Programms_1S\apps-VISUAL COLD\1ano\Semestre2\SwhithCaseDayOfWeek\UsandoIfElse_DiasDaSemana\obj\Debug\netcoreapp3.1\UsandoIfElse_DiasDaSemana.csproj.CoreCompileInputs.cache
+D:\Etec AMS1 - Programms_1S\apps-VISUAL COLD\1ano\Semestre2\SwhithCaseDayOfWeek\UsandoIfElse_DiasDaSemana\obj\Debug\netcoreapp3.1\UsandoIfElse_DiasDaSemana.dll
+D:\Etec AMS1 - Programms_1S\apps-VISUAL COLD\1ano\Semestre2\SwhithCaseDayOfWeek\UsandoIfElse_DiasDaSemana\obj\Debug\netcoreapp3.1\UsandoIfElse_DiasDaSemana.pdb
+D:\Etec AMS1 - Programms_1S\apps-VISUAL COLD\1ano\Semestre2\SwhithCaseDayOfWeek\UsandoIfElse_DiasDaSemana\obj\Debug\netcoreapp3.1\UsandoIfElse_DiasDaSemana.genruntimeconfig.cache

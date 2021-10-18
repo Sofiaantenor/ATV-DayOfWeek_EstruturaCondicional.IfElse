@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "UsandoIfElse_DiasDaSemana/1.0.0": {
+        "runtime": {
+          "UsandoIfElse_DiasDaSemana.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UsandoIfElse_DiasDaSemana/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
